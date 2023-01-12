@@ -6,7 +6,7 @@
 @layer base {
   button {
 
-    @apply border py-2 px-2 rounded-full
+    @apply border py-2 px-2 rounded-full 
 
   }
 }
